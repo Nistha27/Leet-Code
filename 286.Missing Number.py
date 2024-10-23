@@ -32,7 +32,10 @@ Follow up: Could you implement a solution using only O(1) extra space complexity
 
 class Solution(object):
     def missingNumber(self, nums):
-        ln=len(nums)
-        for i in range(0,ln+1):
-            if i not in nums:
-                return i      
+        n=len(nums)
+        total=n*(n+1)/2
+        sum=0
+        for i in range(0, len(nums)):
+          sum+=nums[i]
+
+        return total-sum      
