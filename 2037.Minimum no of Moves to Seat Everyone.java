@@ -15,7 +15,7 @@ Return the minimum number of moves required to move each student to a seat such 
 - The third student is moved from from position 4 to position 3 using 1 move.
 In total, 1 + 2 + 1 = 4 moves were used.
  */
-
+//in process solution for java
  class Solution {
     public int minMovesToSeat(int[] seats, int[] students) {
         int n = seats.length;
