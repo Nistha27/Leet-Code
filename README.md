@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nistha27/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
+| [2358-number-of-ways-to-split-array](https://github.com/Nistha27/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nistha27/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nistha27/Leet-Code/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Nistha27/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nistha27/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
