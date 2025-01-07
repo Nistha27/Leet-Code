@@ -4,6 +4,7 @@ class Solution(object):
         :type words: List[str]
         :rtype: List[str]
         """
+        #Brute force
         res=[]
         for i in range(len(words)):
             for j in range(len(words)):
@@ -12,3 +13,5 @@ class Solution(object):
                 elif words[i] in words[j] and words[i] not in res:
                     res.append(words[i])
         return res
+
+        
