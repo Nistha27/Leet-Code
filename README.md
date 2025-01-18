@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/Nistha27/Leet-Code/tree/master/0952-word-subsets) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1833-find-the-highest-altitude](https://github.com/Nistha27/Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nistha27/Leet-Code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,4 +123,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nistha27/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
