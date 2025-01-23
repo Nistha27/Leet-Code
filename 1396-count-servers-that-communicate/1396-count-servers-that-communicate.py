@@ -20,8 +20,6 @@ class Solution(object):
                     grid[r][c]=-1
         
         for c in range(COLS):
-
-
             col_sum=0
             unmarked=0
             for r in range(ROWS):
