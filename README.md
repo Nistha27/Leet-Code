@@ -209,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Nistha27/Leet-Code/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Nistha27/Leet-Code/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
