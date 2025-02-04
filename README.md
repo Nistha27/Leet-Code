@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nistha27/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Nistha27/Leet-Code/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
