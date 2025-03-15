@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nistha27/Leet-Code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nistha27/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nistha27/Leet-Code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/Nistha27/Leet-Code/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Nistha27/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nistha27/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
