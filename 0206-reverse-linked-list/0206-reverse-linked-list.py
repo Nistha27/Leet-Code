@@ -30,6 +30,7 @@ class Solution(object):
         #Traverse the linked list
         while temp is not None:
             #initialize the front to the next node i.e temp pointing
+            #to preserve the refernece
             front=temp.next
             # reverse the arrows by 
             #initializing temp.next to prev
