@@ -10,7 +10,9 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        #initialized temp as head
+
+        #Brute Force
+        '''#initialized temp as head
         temp=head
         #hash map
         node_set=set()
@@ -21,4 +23,17 @@ class Solution(object):
                 return True
             node_set.add(temp)
             temp=temp.next
+        return False'''
+
+        #Optimal Solution
+        slow=head
+        fast=head
+
+        while fast is not None and fast.next is not None:
+            slow=slow.next
+            fast=fast.next.next
+
+            if slow==fast:
+                return True
+
         return False
