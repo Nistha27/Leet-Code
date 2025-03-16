@@ -9,7 +9,8 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        temp=head
+        #Brute Force
+        '''temp=head
         stack=[]
 
         while temp is not None:
@@ -19,6 +20,27 @@ class Solution(object):
         while temp is not None:
             temp.val=stack.pop()
             temp=temp.next
-        return head
+        return head'''
+
+        #Optimal
+        #initialize temp to head
+        temp=head
+        #initialize prev to NULL / None
+        prev=None
+        #Traverse the linked list
+        while temp is not None:
+            #initialize the front to the next node i.e temp pointing
+            front=temp.next
+            # reverse the arrows by 
+            #initializing temp.next to prev
+            temp.next=prev
+            #now prev is temp
+            prev=temp
+            #temp is front
+            temp=front
+
+        return prev
+
+
             
         
