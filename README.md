@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Nistha27/Leet-Code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Nistha27/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nistha27/Leet-Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nistha27/Leet-Code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nistha27/Leet-Code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 ## Hash Table
