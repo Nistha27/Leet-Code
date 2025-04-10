@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Nistha27/Leet-Code/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nistha27/Leet-Code/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Nistha27/Leet-Code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Nistha27/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nistha27/Leet-Code/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Nistha27/Leet-Code/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nistha27/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Nistha27/Leet-Code/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nistha27/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Nistha27/Leet-Code/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nistha27/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Nistha27/Leet-Code/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nistha27/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
