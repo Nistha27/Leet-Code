@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nistha27/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2145-grid-game](https://github.com/Nistha27/Leet-Code/tree/master/2145-grid-game) |
 | [2262-solving-questions-with-brainpower](https://github.com/Nistha27/Leet-Code/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nistha27/Leet-Code/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nistha27/Leet-Code/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2448-count-number-of-bad-pairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Nistha27/Leet-Code/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -346,4 +349,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nistha27/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Nistha27/Leet-Code/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nistha27/Leet-Code/tree/master/3548-find-the-count-of-good-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
