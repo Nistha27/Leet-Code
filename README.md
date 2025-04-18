@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Nistha27/Leet-Code/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Nistha27/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0952-word-subsets](https://github.com/Nistha27/Leet-Code/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nistha27/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
