@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nistha27/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nistha27/Leet-Code/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nistha27/Leet-Code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Nistha27/Leet-Code/tree/master/2792-neighboring-bitwise-xor) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nistha27/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nistha27/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nistha27/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
