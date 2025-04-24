@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nistha27/Leet-Code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Nistha27/Leet-Code/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Nistha27/Leet-Code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Nistha27/Leet-Code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nistha27/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nistha27/Leet-Code/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nistha27/Leet-Code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nistha27/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nistha27/Leet-Code/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nistha27/Leet-Code/tree/master/3548-find-the-count-of-good-integers) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
