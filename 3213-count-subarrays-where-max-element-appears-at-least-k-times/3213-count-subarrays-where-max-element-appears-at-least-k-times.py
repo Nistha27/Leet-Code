@@ -7,7 +7,7 @@ class Solution(object):
         for end in range(len(nums)):
             if nums[end] == max_element:
                 max_elements_in_window += 1
-            while max_elements_in_window == k:
+            while max_elements_in_window >= k:
                 if nums[start] == max_element:
                     max_elements_in_window -= 1
                 start += 1
