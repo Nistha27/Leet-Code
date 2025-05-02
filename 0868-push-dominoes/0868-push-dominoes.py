@@ -1,10 +1,7 @@
 class Solution(object):
     def pushDominoes(self, dominoes):
-        """
-        :type dominoes: str
-        :rtype: str
-        """
-        dom_str=''
+        #deque approach
+        '''dom_str=''
         dom=list(dominoes)
         q=deque()
 
@@ -26,4 +23,12 @@ class Solution(object):
                         dom[i+1]="R"
         for i in dom:
             dom_str+=i
-        return dom_str
+        return dom_str'''
+
+        #simulation appeoach
+        prev = ''
+        while dominoes != prev:
+            prev = dominoes
+            dominoes = (dominoes.replace('R.L', 'xxx').replace('R.', 'RR').replace('.L', 'LL'))
+
+        return dominoes.replace('xxx', 'R.L')
