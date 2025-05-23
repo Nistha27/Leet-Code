@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nistha27/Leet-Code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nistha27/Leet-Code/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nistha27/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nistha27/Leet-Code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nistha27/Leet-Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Nistha27/Leet-Code/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nistha27/Leet-Code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Nistha27/Leet-Code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nistha27/Leet-Code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Nistha27/Leet-Code/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nistha27/Leet-Code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nistha27/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nistha27/Leet-Code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nistha27/Leet-Code/tree/master/3637-count-number-of-balanced-permutations) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Nistha27/Leet-Code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nistha27/Leet-Code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Nistha27/Leet-Code/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nistha27/Leet-Code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## String Matching
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Nistha27/Leet-Code/tree/master/2509-minimize-xor) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nistha27/Leet-Code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nistha27/Leet-Code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nistha27/Leet-Code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Nistha27/Leet-Code/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nistha27/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nistha27/Leet-Code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nistha27/Leet-Code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Nistha27/Leet-Code/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Nistha27/Leet-Code/tree/master/3647-zero-array-transformation-iii) |
 ## Database
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Nistha27/Leet-Code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
