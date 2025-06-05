@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nistha27/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0868-push-dominoes](https://github.com/Nistha27/Leet-Code/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Nistha27/Leet-Code/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Nistha27/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nistha27/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nistha27/Leet-Code/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Nistha27/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Nistha27/Leet-Code/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nistha27/Leet-Code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
