@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Nistha27/Leet-Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/1524-string-matching-in-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Nistha27/Leet-Code/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nistha27/Leet-Code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Nistha27/Leet-Code/tree/master/1833-find-the-highest-altitude) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
 | [0868-push-dominoes](https://github.com/Nistha27/Leet-Code/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nistha27/Leet-Code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Nistha27/Leet-Code/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nistha27/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nistha27/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nistha27/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nistha27/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nistha27/Leet-Code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nistha27/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
