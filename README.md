@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Nistha27/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nistha27/Leet-Code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Nistha27/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/Nistha27/Leet-Code/tree/master/0952-word-subsets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nistha27/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Nistha27/Leet-Code/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Nistha27/Leet-Code/tree/master/1396-count-servers-that-communicate) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nistha27/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nistha27/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nistha27/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nistha27/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nistha27/Leet-Code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
