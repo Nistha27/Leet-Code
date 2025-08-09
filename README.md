@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Nistha27/Leet-Code/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Nistha27/Leet-Code/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Nistha27/Leet-Code/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/Nistha27/Leet-Code/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/Nistha27/Leet-Code/tree/master/1161-project-employees-i) |
 | [1317-monthly-transactions-i](https://github.com/Nistha27/Leet-Code/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Nistha27/Leet-Code/tree/master/1338-queries-quality-and-percentage) |
