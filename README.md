@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Nistha27/Leet-Code/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Nistha27/Leet-Code/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Nistha27/Leet-Code/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Nistha27/Leet-Code/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Nistha27/Leet-Code/tree/master/0584-find-customer-referee) |
