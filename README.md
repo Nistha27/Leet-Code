@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/Nistha27/Leet-Code/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Nistha27/Leet-Code/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/Nistha27/Leet-Code/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Nistha27/Leet-Code/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/Nistha27/Leet-Code/tree/master/1338-queries-quality-and-percentage) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Nistha27/Leet-Code/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Nistha27/Leet-Code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
