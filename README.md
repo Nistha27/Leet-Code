@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Nistha27/Leet-Code/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Nistha27/Leet-Code/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nistha27/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Nistha27/Leet-Code/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nistha27/Leet-Code/tree/master/1477-product-of-the-last-k-numbers) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nistha27/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Nistha27/Leet-Code/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Nistha27/Leet-Code/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Nistha27/Leet-Code/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Nistha27/Leet-Code/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nistha27/Leet-Code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Nistha27/Leet-Code/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Nistha27/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Nistha27/Leet-Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nistha27/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -755,4 +758,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Nistha27/Leet-Code/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Nistha27/Leet-Code/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
