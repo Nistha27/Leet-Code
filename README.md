@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nistha27/Leet-Code/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
+| [0414-third-maximum-number](https://github.com/Nistha27/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Nistha27/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/Nistha27/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nistha27/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nistha27/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/Nistha27/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
