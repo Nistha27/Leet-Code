@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nistha27/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Nistha27/Leet-Code/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Nistha27/Leet-Code/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Nistha27/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nistha27/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Nistha27/Leet-Code/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Nistha27/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Nistha27/Leet-Code/tree/master/0806-domino-and-tromino-tiling) |
