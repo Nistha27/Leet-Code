@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nistha27/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/Nistha27/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Nistha27/Leet-Code/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nistha27/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Nistha27/Leet-Code/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/Nistha27/Leet-Code/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Nistha27/Leet-Code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Nistha27/Leet-Code/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nistha27/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Nistha27/Leet-Code/tree/master/1448-maximum-69-number) |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Nistha27/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nistha27/Leet-Code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
