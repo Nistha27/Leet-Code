@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Nistha27/Leet-Code/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Nistha27/Leet-Code/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Nistha27/Leet-Code/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Nistha27/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nistha27/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nistha27/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Nistha27/Leet-Code/tree/master/1293-three-consecutive-odds) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Nistha27/Leet-Code/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Nistha27/Leet-Code/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/Nistha27/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nistha27/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nistha27/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nistha27/Leet-Code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Nistha27/Leet-Code/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/Nistha27/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nistha27/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Nistha27/Leet-Code/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nistha27/Leet-Code/tree/master/1502-construct-k-palindrome-strings) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Nistha27/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Nistha27/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nistha27/Leet-Code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
