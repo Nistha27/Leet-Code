@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nistha27/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Nistha27/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Nistha27/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Nistha27/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nistha27/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Nistha27/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Nistha27/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Nistha27/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nistha27/Leet-Code/tree/master/0166-fraction-to-recurring-decimal) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nistha27/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Nistha27/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nistha27/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Nistha27/Leet-Code/tree/master/0679-24-game) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nistha27/Leet-Code/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nistha27/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
