@@ -6,7 +6,7 @@ class Solution:
         n=len(nums)
         low,mid=0,0
         high=n-1
-        for i in range(n):
+        while mid<=high:
             if nums[mid]==0:
                 nums[low],nums[mid]=nums[mid],nums[low]
                 low+=1
