@@ -1,10 +1,20 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        # Create a dictionary to store the complement and its index
-        seen = {}
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in seen:
-                return [seen[complement], i]  # Return the indices
-            seen[num] = i  # Store the current number with its index
-        return [] 
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        hashmap={}
+        i=0
+        j=len(nums)-1
+        for i in range(len(nums)):
+            hashmap[nums[i]]=i
+        for i in range(len(nums)):
+            diff=target-nums[i]
+            if diff in hashmap and hashmap[diff]!=i:
+                return [i,hashmap[diff]]
+        return []
+        
+
+        
