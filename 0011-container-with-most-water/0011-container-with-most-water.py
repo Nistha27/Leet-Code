@@ -1,28 +1,20 @@
-class Solution:
-    def maxArea(self, height: List[int]) -> int:
-        "BRUTE FORCE"
-        '''n=len(height)
-        area=0
-        for i in range(n):
-            for j in range(i+1,n):
-                if height[i]>height[j]:
-                    area=max(area,height[j]*(j-i))
-                elif height[i]<height[j]:
-                    area=max(area,height[i]*(j-i))
-                else:
-                    area=max(area,height[i]*(j-i))
-        return area'''
-
-        "OPTIMIZED SOLUTION"
+class Solution(object):
+    def maxArea(self, height):
+        """
+        :type height: List[int]
+        :rtype: int
+        """
         n=len(height)
+        i=0
+        j=n-1
         max_area=0
-        left=0
-        right=n-1
-        while left<right:
-            max_area=max(max_area,(right-left)*min(height[left],height[right]))
-
-            if height[left]<height[right]:
-                left+=1
+        while i<j:
+            max_area=max(max_area,(j-i)*min(height[j],height[i]))
+            if height[i]<height[j]:
+                i+=1
             else:
-                right-=1
+                j-=1
+
         return max_area
+
+        
