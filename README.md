@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nistha27/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Nistha27/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nistha27/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Nistha27/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nistha27/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nistha27/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nistha27/Leet-Code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nistha27/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nistha27/Leet-Code/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nistha27/Leet-Code/tree/master/0166-fraction-to-recurring-decimal) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nistha27/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nistha27/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Nistha27/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
