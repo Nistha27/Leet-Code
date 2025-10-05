@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nistha27/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Nistha27/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nistha27/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/Nistha27/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nistha27/Leet-Code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nistha27/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nistha27/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nistha27/Leet-Code/tree/master/0053-maximum-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
