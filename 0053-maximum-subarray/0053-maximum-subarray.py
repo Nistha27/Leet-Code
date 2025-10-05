@@ -3,14 +3,13 @@ class Solution(object):
         """
         :type nums: List[int]
         :rtype: int
-        """
+        """    
         n=len(nums)
-        curr_sum=nums[0]
-        maxi=nums[0]
-        for i in range(1,n):
-            curr_sum=max(nums[i],curr_sum+nums[i])
-            if curr_sum>maxi :
-                maxi=curr_sum
-        return maxi
-
-        
+        sum1=0
+        max1=float("-inf")
+        for i in range(n):
+            sum1=sum1+nums[i]
+            max1=max(sum1,max1)
+            if sum1<0:
+                sum1=0
+        return max1
