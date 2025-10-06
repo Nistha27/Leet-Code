@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Nistha27/Leet-Code/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Nistha27/Leet-Code/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nistha27/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nistha27/Leet-Code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nistha27/Leet-Code/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nistha27/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Nistha27/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Nistha27/Leet-Code/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Nistha27/Leet-Code/tree/master/1396-count-servers-that-communicate) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nistha27/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Nistha27/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Nistha27/Leet-Code/tree/master/0945-snakes-and-ladders) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nistha27/Leet-Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Nistha27/Leet-Code/tree/master/2023-design-movie-rental-system) |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Nistha27/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nistha27/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Nistha27/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -656,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Nistha27/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Nistha27/Leet-Code/tree/master/1396-count-servers-that-communicate) |
