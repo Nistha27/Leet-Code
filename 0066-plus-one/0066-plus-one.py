@@ -1,6 +1,5 @@
 class Solution(object):
     def plusOne(self, digits):
-        self.digits=digits
         new=0
         new_list=[]
         digits=digits[::-1]
