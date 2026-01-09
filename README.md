@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Nistha27/Leet-Code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nistha27/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Nistha27/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Nistha27/Leet-Code/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nistha27/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Nistha27/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nistha27/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Nistha27/Leet-Code/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Nistha27/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nistha27/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nistha27/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nistha27/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
