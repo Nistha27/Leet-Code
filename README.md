@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nistha27/Leet-Code/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Nistha27/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Nistha27/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0120-triangle) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nistha27/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Nistha27/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Nistha27/Leet-Code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nistha27/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nistha27/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nistha27/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nistha27/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Nistha27/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nistha27/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Nistha27/Leet-Code/tree/master/0498-diagonal-traverse) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Nistha27/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nistha27/Leet-Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nistha27/Leet-Code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Nistha27/Leet-Code/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -971,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Nistha27/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nistha27/Leet-Code/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
