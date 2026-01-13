@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Nistha27/Leet-Code/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Nistha27/Leet-Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nistha27/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Nistha27/Leet-Code/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2023-design-movie-rental-system](https://github.com/Nistha27/Leet-Code/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/Nistha27/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nistha27/Leet-Code/tree/master/2079-delete-duplicate-folders-in-system) |
