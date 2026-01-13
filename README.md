@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nistha27/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nistha27/Leet-Code/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nistha27/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Nistha27/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Nistha27/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nistha27/Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nistha27/Leet-Code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Nistha27/Leet-Code/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Nistha27/Leet-Code/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Nistha27/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Nistha27/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Nistha27/Leet-Code/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nistha27/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Nistha27/Leet-Code/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Nistha27/Leet-Code/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Nistha27/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nistha27/Leet-Code/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
 |  |
