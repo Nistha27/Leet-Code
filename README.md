@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nistha27/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Nistha27/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Nistha27/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Nistha27/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nistha27/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Nistha27/Leet-Code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nistha27/Leet-Code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Nistha27/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nistha27/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Nistha27/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Nistha27/Leet-Code/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Nistha27/Leet-Code/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Nistha27/Leet-Code/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Nistha27/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
