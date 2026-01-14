@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nistha27/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nistha27/Leet-Code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Nistha27/Leet-Code/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Nistha27/Leet-Code/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nistha27/Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nistha27/Leet-Code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nistha27/Leet-Code/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nistha27/Leet-Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nistha27/Leet-Code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Nistha27/Leet-Code/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Nistha27/Leet-Code/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nistha27/Leet-Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nistha27/Leet-Code/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Nistha27/Leet-Code/tree/master/3827-implement-router) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/Nistha27/Leet-Code/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nistha27/Leet-Code/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nistha27/Leet-Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nistha27/Leet-Code/tree/master/3791-fruits-into-baskets-iii) |
@@ -992,4 +995,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Nistha27/Leet-Code/tree/master/3462-vowels-game-in-a-string) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Nistha27/Leet-Code/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
