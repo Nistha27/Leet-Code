@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nistha27/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Nistha27/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nistha27/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Nistha27/Leet-Code/tree/master/0684-redundant-connection) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nistha27/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nistha27/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nistha27/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nistha27/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nistha27/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nistha27/Leet-Code/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1006,4 +1009,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Nistha27/Leet-Code/tree/master/3454-separate-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nistha27/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
