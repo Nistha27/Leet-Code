@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nistha27/Leet-Code/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nistha27/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Nistha27/Leet-Code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nistha27/Leet-Code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Nistha27/Leet-Code/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nistha27/Leet-Code/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nistha27/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nistha27/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nistha27/Leet-Code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Nistha27/Leet-Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Nistha27/Leet-Code/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Nistha27/Leet-Code/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Nistha27/Leet-Code/tree/master/2479-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nistha27/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Nistha27/Leet-Code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Nistha27/Leet-Code/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nistha27/Leet-Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nistha27/Leet-Code/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nistha27/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nistha27/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nistha27/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nistha27/Leet-Code/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nistha27/Leet-Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nistha27/Leet-Code/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
