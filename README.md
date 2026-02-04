@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Nistha27/Leet-Code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nistha27/Leet-Code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Nistha27/Leet-Code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/Nistha27/Leet-Code/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Nistha27/Leet-Code/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/Nistha27/Leet-Code/tree/master/3640-trionic-array-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Nistha27/Leet-Code/tree/master/3647-zero-array-transformation-iii) |
