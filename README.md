@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Nistha27/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Nistha27/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Nistha27/Leet-Code/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Nistha27/Leet-Code/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Nistha27/Leet-Code/tree/master/0794-swim-in-rising-water) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Nistha27/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/Nistha27/Leet-Code/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Nistha27/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nistha27/Leet-Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
