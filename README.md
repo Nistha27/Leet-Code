@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Nistha27/Leet-Code/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Nistha27/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Nistha27/Leet-Code/tree/master/0198-house-robber) |
+| [0334-increasing-triplet-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Nistha27/Leet-Code/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Nistha27/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Nistha27/Leet-Code/tree/master/0414-third-maximum-number) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nistha27/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Nistha27/Leet-Code/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Nistha27/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Nistha27/Leet-Code/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/Nistha27/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Nistha27/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
